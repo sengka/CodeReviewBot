@@ -2,14 +2,6 @@
 
 YZM358 Doğal Dil İşleme dersi kapsamında geliştirilen, kod incelemesi ve onarımı yapan yapay zeka destekli bir sistem.
 
-## 👥 Ekip
-
-| Üye | Sorumluluk |
-|-----|-----------|
-| Sena Gül Kara | AST tabanlı Graf Kodlama & GraphBERT |
-| Aybüke Turgun | CodeT5+ Fine-tuning & Model Eğitimi |
-| Gizem Tangel | RAG Pipeline & Gradio Arayüzü |
-
 ## 🔍 Nasıl Çalışır?
 
 Kullanıcının girdiği kod üç aşamalı bir pipeline'dan geçer:
